@@ -1,0 +1,10 @@
+/target
+/dist
+node_modules/
+.playwright-mcp/
+nPartners-expert-light.min.o.js
+*.swp
+*.swo
+*~
+.DS_Store
+CLAUDE.md

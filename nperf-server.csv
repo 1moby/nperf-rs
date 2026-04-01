@@ -1,0 +1,88 @@
+pool_id,country,city,provider,speed,hostname,ip,port_wss,port_alt,url
+673,TH,Bangkok,True,10 Gb/s,th-true-bangkok-01-10g.nperf.net,119.46.172.82,443,8443,wss://th-true-bangkok-01-10g.nperf.net/wsock
+2045,TH,Surat Thani,True,10 Gb/s,th-true-suratthani-01-10g.nperf.net,203.144.190.242,443,8443,wss://th-true-suratthani-01-10g.nperf.net/wsock
+2035,TH,Phitsanulok,True,10 Gb/s,th-true-phitsanulok-01-10g.nperf.net,203.144.191.50,443,8443,wss://th-true-phitsanulok-01-10g.nperf.net/wsock
+2221,TH,Nonthaburi,True,10 Gb/s,th-true-nontraburi-01-10g.nperf.net,119.46.172.119,443,8443,wss://th-true-nontraburi-01-10g.nperf.net/wsock
+2044,TH,Chon Buri,True,10 Gb/s,th-true-chonburi-01-10g.nperf.net,203.144.190.234,443,8443,wss://th-true-chonburi-01-10g.nperf.net/wsock
+2048,TH,Songkhla,True,10 Gb/s,th-true-songkhla-01-10g.nperf.net,203.144.190.250,443,8443,wss://th-true-songkhla-01-10g.nperf.net/wsock
+2038,TH,Khon Kaen,True,10 Gb/s,th-true-khonkaen-01-10g.nperf.net,203.144.191.76,443,8443,wss://th-true-khonkaen-01-10g.nperf.net/wsock
+2042,TH,Ayutthaya,True,10 Gb/s,th-true-ayutthaya-01-10g.nperf.net,203.144.191.66,443,8443,wss://th-true-ayutthaya-01-10g.nperf.net/wsock
+2032,TH,Chiang Mai,True,10 Gb/s,th-true-chiangmai-01-10g.nperf.net,203.144.191.42,443,8443,wss://th-true-chiangmai-01-10g.nperf.net/wsock
+11254,TH,Nakhon Pathom,True,10 Gb/s,th-true-nakhonpathom-01-10g.nperf.net,203.144.190.226,443,8443,wss://th-true-nakhonpathom-01-10g.nperf.net/wsock
+2040,TH,Nakhon Ratchasima,True,10 Gb/s,th-true-nakhonratchasima-01-10g.nperf.net,203.144.191.60,443,8443,wss://th-true-nakhonratchasima-01-10g.nperf.net/wsock
+5770,TH,Chiang Rai,AIS,10 Gb/s,th-ais-chiangrai-01-10g.nperf.net,58.64.52.20,443,8443,wss://th-ais-chiangrai-01-10g.nperf.net/wsock
+9978,TH,Nonthaburi,Jastel,10 Gb/s,th-jastel-nonthaburi-01-10g.nperf.net,182.50.80.16,443,8443,wss://th-jastel-nonthaburi-01-10g.nperf.net/wsock
+1049,TH,Bangkok,3BB,10 Gb/s,th-3bb-bangkok-01-10g.nperf.net,110.164.2.219,443,8443,wss://th-3bb-bangkok-01-10g.nperf.net/wsock
+4914,TH,Phayathai,AIS,100 Gb/s,th-ais-phayathai-01-100g.nperf.net,58.64.56.212,443,8443,wss://th-ais-phayathai-01-100g.nperf.net/wsock
+5782,TH,Rayong,AIS,10 Gb/s,th-ais-rayong-01-10g.nperf.net,58.64.62.20,443,8443,wss://th-ais-rayong-01-10g.nperf.net/wsock
+1753,TH,Bangkok,CAT Telecom,10 Gb/s,th-cattelecom-bangkok-01-10g.nperf.net,159.192.8.3,443,8443,wss://th-cattelecom-bangkok-01-10g.nperf.net/wsock
+857,TH,Khon Kaen,Khon Kaen Univ.,100 Gb/s,th-kku-khonkaen-01-1g.nperf.net,202.29.227.62,443,8443,wss://th-kku-khonkaen-01-1g.nperf.net/wsock
+9742,TH,Nonthaburi,True IDC,1 Gb/s,th-trueidc-nonthaburi-01-1g.nperf.net,154.85.96.10,443,8443,wss://th-trueidc-nonthaburi-01-1g.nperf.net/wsock
+2372,TH,Pattaya,AIS,10 Gb/s,th-ais-pattaya-01-10g.nperf.net,58.64.62.12,443,8443,wss://th-ais-pattaya-01-10g.nperf.net/wsock
+3014,TH,Nakhon Pathom,3BB,10 Gb/s,th-3bb-nakhonpathom-01-10g.nperf.net,110.164.3.218,443,8443,wss://th-3bb-nakhonpathom-01-10g.nperf.net/wsock
+2192,TH,Khon Kaen,AIS,10 Gb/s,th-ais-khonkaen-01-10g.nperf.net,58.64.51.12,443,8443,wss://th-ais-khonkaen-01-10g.nperf.net/wsock
+3643,TH,Phitsanulok,National Telecom,10 Gb/s,th-tot-phitsanulok-01-10g.nperf.net,203.113.47.76,443,8443,wss://th-tot-phitsanulok-01-10g.nperf.net/wsock
+10761,TH,Hat Yai,PSU,10 Gb/s,th-psu-hatyai-01-10g.nperf.net,202.29.146.74,443,8443,wss://th-psu-hatyai-01-10g.nperf.net/wsock
+2481,TH,Pathum Wan,DTAC,10 Gb/s,th-dtac-pathumwan-01-10g.nperf.net,124.40.227.98,443,8443,wss://th-dtac-pathumwan-01-10g.nperf.net/wsock
+4157,TH,Laem Chabang,CAT Telecom,10 Gb/s,th-cattelecom-laemchabang-01-10g.nperf.net,110.78.188.226,443,8443,wss://th-cattelecom-laemchabang-01-10g.nperf.net/wsock
+2283,TH,Samut Prakan,DTAC,10 Gb/s,th-dtac-samutprakan-01-10g.nperf.net,124.40.229.142,443,8443,wss://th-dtac-samutprakan-01-10g.nperf.net/wsock
+827,TH,Bangkok,AIS,10 Gb/s,th-ais-bangkok-01-10g.nperf.net,49.231.33.66,443,8443,wss://th-ais-bangkok-01-10g.nperf.net/wsock
+4165,TH,Ratchaburi,CAT Telecom,10 Gb/s,th-cattelecom-ratchaburi-01-10g.nperf.net,110.78.188.242,443,8443,wss://th-cattelecom-ratchaburi-01-10g.nperf.net/wsock
+474,TH,Bangkok,Symphony,10 Gb/s,th-symphony-bangkok-01-10g.nperf.net,146.88.56.249,443,8443,wss://th-symphony-bangkok-01-10g.nperf.net/wsock
+3182,TH,Phuket,3BB,10 Gb/s,th-3bb-phuket-01-10g.nperf.net,110.164.3.237,443,8443,wss://th-3bb-phuket-01-10g.nperf.net/wsock
+3646,TH,Surat Thani,National Telecom,10 Gb/s,th-tot-suratthani-01-10g.nperf.net,203.113.47.92,443,8443,wss://th-tot-suratthani-01-10g.nperf.net/wsock
+3694,TH,Phetchaburi,3BB,10 Gb/s,th-3bb-phetchaburi-01-10g.nperf.net,110.164.3.238,443,8443,wss://th-3bb-phetchaburi-01-10g.nperf.net/wsock
+5777,TH,Surin,AIS,10 Gb/s,th-ais-surin-01-10g.nperf.net,58.64.59.20,443,8443,wss://th-ais-surin-01-10g.nperf.net/wsock
+2974,TH,Pathum Thani,3BB,10 Gb/s,th-3bb-pathumthani-01-10g.nperf.net,110.164.2.211,443,8443,wss://th-3bb-pathumthani-01-10g.nperf.net/wsock
+2194,TH,Nakhon Ratchasima,AIS,10 Gb/s,th-ais-nakornratchasima-01-10g.nperf.net,58.64.59.12,443,8443,wss://th-ais-nakornratchasima-01-10g.nperf.net/wsock
+3981,TH,Samut Sakhon,3BB,10 Gb/s,th-3bb-samutsakhon-01-10g.nperf.net,110.164.3.229,443,8443,wss://th-3bb-samutsakhon-01-10g.nperf.net/wsock
+2478,TH,Pathum Thani,DTAC,10 Gb/s,th-dtac-pathumthani-01-10g.nperf.net,124.40.237.206,443,8443,wss://th-dtac-pathumthani-01-10g.nperf.net/wsock
+3701,TH,Lampang,3BB,10 Gb/s,th-3bb-lampang-01-10g.nperf.net,110.164.3.209,443,8443,wss://th-3bb-lampang-01-10g.nperf.net/wsock
+3697,TH,Udon Thani,3BB,10 Gb/s,th-3bb-udonthani-01-10g.nperf.net,110.164.3.232,443,8443,wss://th-3bb-udonthani-01-10g.nperf.net/wsock
+5779,TH,Prachin Buri,AIS,10 Gb/s,th-ais-prachinburi-01-10g.nperf.net,58.64.54.20,443,8443,wss://th-ais-prachinburi-01-10g.nperf.net/wsock
+3635,TH,Chon Buri,National Telecom,10 Gb/s,th-tot-chonburi-01-10g.nperf.net,203.113.47.100,443,8443,wss://th-tot-chonburi-01-10g.nperf.net/wsock
+1564,TH,Nonthaburi,EGAT,1 Gb/s,th-egat-nonthaburi-01-1g.nperf.net,182.255.8.240,443,8443,wss://th-egat-nonthaburi-01-1g.nperf.net/wsock
+5774,TH,Udon Thani,AIS,10 Gb/s,th-ais-udonthani-01-10g.nperf.net,58.64.51.20,443,8443,wss://th-ais-udonthani-01-10g.nperf.net/wsock
+526,TH,Yala,Yala Rajabhat University,10 Gb/s,th-rajabhatuniv-yala-01-1g.nperf.net,202.29.32.225,443,8443,wss://th-rajabhatuniv-yala-01-1g.nperf.net/wsock
+1963,TH,Song Khla,AIS,10 Gb/s,th-awn-songkhla-01-10g.nperf.net,49.231.96.71,443,8443,wss://th-awn-songkhla-01-10g.nperf.net/wsock
+2172,TH,Chonburi,AIS,10 Gb/s,th-ais-chonburi-01-10g.nperf.net,58.64.54.12,443,8443,wss://th-ais-chonburi-01-10g.nperf.net/wsock
+2189,TH,Surat Thani,AIS,10 Gb/s,th-ais-suratthani-01-10g.nperf.net,58.64.55.12,443,8443,wss://th-ais-suratthani-01-10g.nperf.net/wsock
+2191,TH,Phitsanulok,AIS,10 Gb/s,th-ais-phitsanulok-01-10g.nperf.net,58.64.60.12,443,8443,wss://th-ais-phitsanulok-01-10g.nperf.net/wsock
+2375,TH,Ayutthaya,AIS,10 Gb/s,th-ais-ayutthaya-01-10g.nperf.net,58.64.53.12,443,8443,wss://th-ais-ayutthaya-01-10g.nperf.net/wsock
+2377,TH,Nakhon Pathom,AIS,10 Gb/s,th-ais-nakornpathom-01-10g.nperf.net,58.64.61.12,443,8443,wss://th-ais-nakornpathom-01-10g.nperf.net/wsock
+2382,TH,Chiang Mai,AIS,10 Gb/s,th-ais-chiangmai-01-10g.nperf.net,58.64.52.12,443,8443,wss://th-ais-chiangmai-01-10g.nperf.net/wsock
+2591,TH,Khon Kaen,DTAC,10 Gb/s,th-dtac-khonkaen-01-10g.nperf.net,115.67.240.18,443,8443,wss://th-dtac-khonkaen-01-10g.nperf.net/wsock
+2595,TH,Surat Thani,DTAC,10 Gb/s,th-dtac-suratthani-01-10g.nperf.net,115.67.240.22,443,8443,wss://th-dtac-suratthani-01-10g.nperf.net/wsock
+2633,TH,Pathum Thani,Shama Tunder,2 Gb/s,th-shamathunder-pathumthani-01-2g.nperf.net,61.91.246.158,443,8443,wss://th-shamathunder-pathumthani-01-2g.nperf.net/wsock
+2948,TH,Samut Prakan,3BB,10 Gb/s,th-3bb-samutprakarn-01-10g.nperf.net,110.164.2.210,443,8443,wss://th-3bb-samutprakarn-01-10g.nperf.net:8443/wsock
+2958,TH,Chiang Mai,3BB,10 Gb/s,th-3bb-chiangmai-01-10g.nperf.net,110.164.3.253,443,8443,wss://th-3bb-chiangmai-01-10g.nperf.net/wsock
+2959,TH,Chon Buri,3BB,10 Gb/s,th-3bb-chonburi-01-10g.nperf.net,110.164.3.234,443,8443,wss://th-3bb-chonburi-01-10g.nperf.net/wsock
+2963,TH,Khon Kaen,3BB,10 Gb/s,th-3bb-khonkaen-01-10g.nperf.net,110.164.3.226,443,8443,wss://th-3bb-khonkaen-01-10g.nperf.net/wsock
+2967,TH,Nakhon Ratchasima,3BB,10 Gb/s,th-3bb-nakhonratchasima-01-10g.nperf.net,110.164.3.246,443,8443,wss://th-3bb-nakhonratchasima-01-10g.nperf.net/wsock
+2977,TH,Nonthaburi,3BB,10 Gb/s,th-3bb-nonthaburi-01-10g.nperf.net,110.164.2.220,443,8443,wss://th-3bb-nonthaburi-01-10g.nperf.net/wsock
+3034,TH,Phitsanulok,3BB,10 Gb/s,th-3bb-phitsanulok-01-10g.nperf.net,110.164.3.230,443,8443,wss://th-3bb-phitsanulok-01-10g.nperf.net/wsock
+3058,TH,Surat Thani,3BB,10 Gb/s,th-3bb-suratthani-01-10g.nperf.net,110.164.3.222,443,8443,wss://th-3bb-suratthani-01-10g.nperf.net/wsock
+3060,TH,Saraburi,3BB,10 Gb/s,th-3bb-saraburi-01-10g.nperf.net,110.164.3.250,443,8443,wss://th-3bb-saraburi-01-10g.nperf.net/wsock
+3104,TH,Ubon Ratchathani,3BB,10 Gb/s,th-3bb-ubonratchathani-01-10g.nperf.net,110.164.3.252,443,8443,wss://th-3bb-ubonratchathani-01-10g.nperf.net/wsock
+3170,TH,Songkhla,3BB,10 Gb/s,th-3bb-songkhia-01-10g.nperf.net,110.164.3.208,443,8443,wss://th-3bb-songkhia-01-10g.nperf.net:8443/wsock
+3181,TH,Nakhon Si Thammarat,3BB,10 Gb/s,th-3bb-nakhonsithammarat-01-10g.nperf.net,110.164.3.236,443,8443,wss://th-3bb-nakhonsithammarat-01-10g.nperf.net/wsock
+3626,TH,Khon Kaen,National Telecom,10 Gb/s,th-tot-khonkaen-01-10g.nperf.net,203.113.47.52,443,8443,wss://th-tot-khonkaen-01-10g.nperf.net/wsock
+3640,TH,Nakhon Ratchasima,National Telecom,10 Gb/s,th-tot-nakhonratchasima-01-10g.nperf.net,203.113.47.60,443,8443,wss://th-tot-nakhonratchasima-01-10g.nperf.net/wsock
+3645,TH,Songkhla,National Telecom,10 Gb/s,th-tot-songkhla-01-10g.nperf.net,203.113.47.84,443,8443,wss://th-tot-songkhla-01-10g.nperf.net/wsock
+3690,TH,Ayutthaya,3BB,10 Gb/s,th-3bb-ayutthaya-01-10g.nperf.net,110.164.3.212,443,8443,wss://th-3bb-ayutthaya-01-10g.nperf.net/wsock
+3691,TH,Chiang Rai,3BB,10 Gb/s,th-3bb-chiangrai-01-10g.nperf.net,110.164.3.210,443,8443,wss://th-3bb-chiangrai-01-10g.nperf.net/wsock
+3700,TH,Sakon Nakhon,3BB,10 Gb/s,th-3bb-sakonnakhon-01-10g.nperf.net,110.164.3.235,443,8443,wss://th-3bb-sakonnakhon-01-10g.nperf.net/wsock
+3704,TH,Rayong,3BB,10 Gb/s,th-3bb-rayong-01-10g.nperf.net,110.164.3.239,443,8443,wss://th-3bb-rayong-01-10g.nperf.net/wsock
+3709,TH,Nakhon Sawan,3BB,10 Gb/s,th-3bb-nakhonsawan-01-10g.nperf.net,110.164.3.211,443,8443,wss://th-3bb-nakhonsawan-01-10g.nperf.net/wsock
+3983,TH,Pattani,3BB,10 Gb/s,th-3bb-pattani-01-10g.nperf.net,110.164.3.228,443,8443,wss://th-3bb-pattani-01-10g.nperf.net/wsock
+4171,TH,Nakhon Sawan,CAT Telecom,10 Gb/s,th-cattelecom-nakhonsawan-01-10g.nperf.net,110.78.188.218,443,8443,wss://th-cattelecom-nakhonsawan-01-10g.nperf.net/wsock
+5773,TH,Nakhon Sawan,AIS,10 Gb/s,th-ais-nakhonsawan-01-10g.nperf.net,58.64.60.20,443,8443,wss://th-ais-nakhonsawan-01-10g.nperf.net/wsock
+5778,TH,Lopburi,AIS,10 Gb/s,th-ais-lopburi-01-10g.nperf.net,58.64.53.20,443,8443,wss://th-ais-lopburi-01-10g.nperf.net/wsock
+5785,TH,Phuket,AIS,10 Gb/s,th-ais-phuket-01-10g.nperf.net,58.64.55.20,443,8443,wss://th-ais-phuket-01-10g.nperf.net/wsock
+5787,TH,Nakhon Si Thammarat,AIS,10 Gb/s,th-ais-nakhonsithammarat-01-10g.nperf.net,58.64.63.20,443,8443,wss://th-ais-nakhonsithammarat-01-10g.nperf.net/wsock
+5920,TH,Pattani,AIS,10 Gb/s,th-ais-pattani-01-10g.nperf.net,58.64.63.20,443,8443,wss://th-ais-pattani-01-10g.nperf.net/wsock
+6650,TH,Chiang Mai,CATTelecom,10 Gb/s,th-cattelecom-chiangmai-01-10g.nperf.net,110.78.188.162,443,8443,wss://th-cattelecom-chiangmai-01-10g.nperf.net/wsock
+6679,TH,Khon Kaen,CatTelecom,10 Gb/s,th-cattelecom-khonkaen-01-10g.nperf.net,110.78.188.178,443,8443,wss://th-cattelecom-khonkaen-01-10g.nperf.net/wsock
+9888,TH,Bangkok,TCC Technology,10 Gb/s,th-tcctechnology-bangkok-01-1g.nperf.net,203.159.96.142,443,8443,wss://th-tcctechnology-bangkok-01-1g.nperf.net:8443/wsock
+10476,TH,Bangkok,Hostify,50 Gb/s,th-hostify-bangkok-01-50g.nperf.net,188.212.159.171,443,8443,wss://th-hostify-bangkok-01-50g.nperf.net/wsock
+11578,TH,Bangkok,CMKL University,10 Gb/s,th-cmkluniversity-bangkok-01-10g.nperf.net,103.153.118.212,443,8443,wss://th-cmkluniversity-bangkok-01-10g.nperf.net/wsock
